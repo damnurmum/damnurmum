@@ -5,5 +5,5 @@
 <p align="center">
 <b><a href="https://t.me/ryaldum">Telegram Channel (bio)</a></b>
 /
-<b><a href="https://t.me/dumww">Telegram DM</a></b>
+<b><a href="https://t.me/damnurmum">Telegram DM</a></b>
 </p>
