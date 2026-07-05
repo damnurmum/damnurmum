@@ -3,8 +3,6 @@
 </div> -->
 
 <p align="center">
-<b><a href="http://127.0.0.1:8000">Localhost</a></b>
-/
 <b><a href="https://t.me/ryaldum">Telegram Channel (bio)</a></b>
 /
 <b><a href="https://t.me/damnurmum">Telegram DM</a></b>
