@@ -9,7 +9,7 @@
   <a href="https://t.me/ryaldum"><img src="https://img.shields.io/badge/Channel-white.svg?style=for-the-badge&logo=telegram&logoColor=black"/></a>
   <a href="https://t.me/damnurmum"><img src="https://img.shields.io/badge/DM-white.svg?style=for-the-badge&logo=telegram&logoColor=black" /></a>
   <br>
-  <img src="https://img.shields.io/badge/archlinux-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch">
-  <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <a href="#"><img src="https://img.shields.io/badge/archlinux-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch"></a>
+  <a href="#"><img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
 </p>
