@@ -1,9 +1,15 @@
 <div align="center">
-<!-- <img src="https://images.steamusercontent.com/ugc/2490016955203739104/A538D4C08B30A8639446CA2A40805264985D075C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></img>
-</div> -->
+<img src="https://raw.githubusercontent.com/damnurmum/damnurmum/refs/heads/main/output_optimized.gif" width="100%">
+</div>
+
+<h1 align="center">DUM</h1>
+<p align="center"><i>No sneaky edit gets past the audit squad.</i></p>
 
 <p align="center">
-<b><a href="https://t.me/ryaldum">Telegram Channel (bio)</a></b>
-/
-<b><a href="https://t.me/damnurmum">Telegram DM</a></b>
+  <a href="https://t.me/ryaldum"><img src="https://img.shields.io/badge/Channel-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/damnurmum"><img src="https://img.shields.io/badge/DM-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <br>
+  <img src="https://img.shields.io/badge/archlinux-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch">
+  <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
