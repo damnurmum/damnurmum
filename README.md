@@ -6,7 +6,7 @@
 <p align="center"><i>No sneaky edit gets past the audit squad.</i></p>
 
 <p align="center">
-  <a href="https://t.me/ryaldum"><img src="https://img.shields.io/badge/Channel-white.svg?style=for-the-badge&logo=telegram&logoColor=black"/></a>
+  <a href="https://t.me/sidefxlog"><img src="https://img.shields.io/badge/Channel-white.svg?style=for-the-badge&logo=telegram&logoColor=black"/></a>
   <a href="https://t.me/damnurmum"><img src="https://img.shields.io/badge/DM-white.svg?style=for-the-badge&logo=telegram&logoColor=black" /></a>
   <br>
   <a href="#"><img src="https://img.shields.io/badge/archlinux-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch"></a>
